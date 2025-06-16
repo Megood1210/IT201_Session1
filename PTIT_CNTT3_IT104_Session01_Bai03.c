@@ -6,4 +6,4 @@ int* mallocArray(int n) {
     }
     return arr;
 }
-// Độ phức tạp thời không của đoạn mã là O(n)
+// Độ phức tạp thời không gian của đoạn mã là O(n)
